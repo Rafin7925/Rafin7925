@@ -1,18 +1,55 @@
-# 💫 About Me:
-# 👋 Hi, I’m Rafayet<br><br>**Aspiring QA Engineer | Full SQA (Manual & Automation)**<br><br><br><br> 🛠 Skills<br>- ✅ Manual Testing: Test cases, Functional & Regression Testing, Bug Tracking  <br>- ⚡ Automation Testing: Selenium, Java, TestNG, Maven  <br>- 💻 Programming & Web: C#, Python, C++, Java, HTML, CSS, PHP  <br>- 🖥 Tools: Eclipse, Git/GitHub, Chrome DevTools, XAMPP  <br><br>---<br><br> 🎯 Goals<br>- Master **full SQA workflows**  <br>- Build **scalable automation frameworks**  <br>- Prepare for **industry internships & SDET roles**  <br><br>📫 **Connect:** [(https://www.linkedin.com/in/rafayet-hossen-a38845361/)] | [rafin7925@gmail.com]<br>
+# 💫 About Me
+
+**Hi, I’m Rafayet**  
+**Aspiring QA Engineer | Full SQA (Manual & Automation)**  
+**Final Year CSE Student | American International University-Bangladesh | Dhaka, Bangladesh**
 
 
- 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raf In) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/0.666666666666/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafayet-hossen-a38845361/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafin7925@gmail.com) 
 
- 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rafin7925&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rafin7925&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin7925&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 🛠 Skills
+- Manual Testing: Test cases, Functional & Regression Testing, Bug Tracking  
+- Automation Testing: Selenium, Java, TestNG, Maven  
+- Programming & Web: C#, Python, C++, Java, HTML, CSS, PHP  
+- Tools: Eclipse, Git/GitHub, Chrome DevTools, XAMPP, Canva  
 
 
-[![](https://visitcount.itsvg.in/api?id=Rafin7925&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🎯 Goals
+- Master full SQA workflows  
+- Build scalable automation frameworks  
+- Prepare for industry internships & SDET roles  
 
 
+
+## 🌐 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RafIn) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0.666666666666/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet-hossen-a38845361/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafin7925@gmail.com)
+
+
+
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C7B7.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+
+
+## 📊 GitHub Stats
+![Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafin7925&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Rafin7925&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin7925&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Rafin7925&icon=0&color=0)
