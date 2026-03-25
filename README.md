@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Rafayet
 
-<!--
-**Rafin7925/Rafin7925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring QA Engineer | Full SQA (Manual & Automation)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- ✅ Manual Testing: Test cases, Functional & Regression Testing, Bug Tracking  
+- ⚡ Automation Testing: Selenium, Java, TestNG, Maven  
+- 💻 Programming & Web: C#, Python, C++, Java, HTML, CSS, PHP  
+- 🖥 Tools: Eclipse, Git/GitHub, Chrome DevTools, XAMPP  
+
+---
+
+## 🎯 Goals
+- Master **full SQA workflows**  
+- Build **scalable automation frameworks**  
+- Prepare for **industry internships & SDET roles**  
+
+📫 **Connect:** [(https://www.linkedin.com/in/rafayet-hossen-a38845361/)] | [rafin7925@gmail.com]
