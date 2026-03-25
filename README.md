@@ -4,7 +4,7 @@
 **Aspiring QA Engineer | Full SQA (Manual & Automation)**  
 **Final Year CSE Student | American International University-Bangladesh | Dhaka, Bangladesh**
 
----
+I am passionate about ensuring high-quality software and improving user experiences. Improving my skill in manual and automated testing, I enjoy building reliable test cases, automating workflows with Selenium, and working with multiple programming languages. I continuously strive to learn new tools, frameworks, and best practices to grow as a professional in the QA industry.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet-hossen-a38845361/) 
