@@ -4,7 +4,15 @@
 **Aspiring QA Engineer | Full SQA (Manual & Automation)**  
 **Final Year CSE Student | American International University-Bangladesh | Dhaka, Bangladesh**
 
+---
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet-hossen-a38845361/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafin7925@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RafIn) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0.666666666666/)
+
+---
 
 ## 🛠 Skills
 - Manual Testing: Test cases, Functional & Regression Testing, Bug Tracking  
@@ -12,22 +20,14 @@
 - Programming & Web: C#, Python, C++, Java, HTML, CSS, PHP  
 - Tools: Eclipse, Git/GitHub, Chrome DevTools, XAMPP, Canva  
 
-
+---
 
 ## 🎯 Goals
 - Master full SQA workflows  
 - Build scalable automation frameworks  
 - Prepare for industry internships & SDET roles  
 
-
-
-## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RafIn) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0.666666666666/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet-hossen-a38845361/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafin7925@gmail.com)
-
-
+---
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -43,13 +43,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C7B7.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
-![Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafin7925&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Rafin7925&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin7925&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafin7925&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin7925&theme=dark&layout=compact)  
 
+---
 
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Rafin7925&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Rafin7925&color=blue)
