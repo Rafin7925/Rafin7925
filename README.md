@@ -1,5 +1,5 @@
- 💫 About Me:
- 👋 Hi, I’m Rafayet<br><br>**Aspiring QA Engineer | Full SQA (Manual & Automation)**<br><br><br><br>## 🛠 Skills<br>- ✅ Manual Testing: Test cases, Functional & Regression Testing, Bug Tracking  <br>- ⚡ Automation Testing: Selenium, Java, TestNG, Maven  <br>- 💻 Programming & Web: C#, Python, C++, Java, HTML, CSS, PHP  <br>- 🖥 Tools: Eclipse, Git/GitHub, Chrome DevTools, XAMPP  <br><br>---<br><br>## 🎯 Goals<br>- Master **full SQA workflows**  <br>- Build **scalable automation frameworks**  <br>- Prepare for **industry internships & SDET roles**  <br><br>📫 **Connect:** [(https://www.linkedin.com/in/rafayet-hossen-a38845361/)] | [rafin7925@gmail.com]<br>
+ #💫 About Me:
+# 👋 Hi, I’m Rafayet<br><br>**Aspiring QA Engineer | Full SQA (Manual & Automation)**<br><br><br><br>## 🛠 Skills<br>- ✅ Manual Testing: Test cases, Functional & Regression Testing, Bug Tracking  <br>- ⚡ Automation Testing: Selenium, Java, TestNG, Maven  <br>- 💻 Programming & Web: C#, Python, C++, Java, HTML, CSS, PHP  <br>- 🖥 Tools: Eclipse, Git/GitHub, Chrome DevTools, XAMPP  <br><br>---<br><br>## 🎯 Goals<br>- Master **full SQA workflows**  <br>- Build **scalable automation frameworks**  <br>- Prepare for **industry internships & SDET roles**  <br><br>📫 **Connect:** [(https://www.linkedin.com/in/rafayet-hossen-a38845361/)] | [rafin7925@gmail.com]<br>
 
 
  🌐 Socials:
