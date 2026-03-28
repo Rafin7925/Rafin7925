@@ -46,7 +46,7 @@ I am passionate about ensuring high-quality software and improving user experien
 ---
 
 ## 📊 GitHub Stats
-![Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafin7925&show_icons=true&theme=dark&count_private=true)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafin7925&theme=dark&layout=compact)  
 
 ---
