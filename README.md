@@ -1,25 +1,29 @@
 # 💫 About Me
+**Hi, I'm Rafayet**
+**SQA Engineer | Manual & Automation Testing**
+**Final Year CSE Student | AIUB | Dhaka, Bangladesh**
 
-**Hi, I’m Rafayet**  
-**Aspiring QA Engineer | Full SQA (Manual & Automation)**  
-**Final Year CSE Student | American International University-Bangladesh | Dhaka, Bangladesh**
+I break software on purpose — so users don't have to.
+I design test plans, build manual test suites, and automate 
+flows with Selenium and Java. I've completed two end-to-end 
+QA projects with 47 test cases designed across 8 modules, 
+and hold 4 verified QA certifications including LambdaTest 
+Manual Testing and Postman Academy API Testing.
 
-I am passionate about ensuring high-quality software and improving user experiences. Improving my skill in manual and automated testing, I enjoy building reliable test cases, automating workflows with Selenium, and working with multiple programming languages. I continuously strive to learn new tools, frameworks, and best practices to grow as a professional in the QA industry.
+Always learning. Always testing.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet-hossen-a38845361/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafin7925@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RafIn) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0.666666666666/)
 
----
-
+-----
 ## 🛠 Skills
-- Manual Testing: Test cases, Functional & Regression Testing, Bug Tracking  
-- Automation Testing: Selenium, Java, TestNG, Maven  
-- Programming & Web: C#, Python, C++, Java, HTML, CSS, PHP  
-- Tools: Eclipse, Git/GitHub, Chrome DevTools, XAMPP, Canva  
-
+- Manual Testing: Test Case Design, Functional, Regression, 
+  Smoke, Usability, Black-Box Testing, Defect Reporting
+- Automation: Selenium WebDriver, Java, TestNG, Maven, 
+  Page Object Model (POM)
+- API Testing: Postman (Postman Academy Certified)
+- Tools: Jira, Trello, GitHub, MySQL, Chrome DevTools
 ---
 
 ## 🎯 Goals
@@ -41,6 +45,12 @@ I am passionate about ensuring high-quality software and improving user experien
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C7B7.svg?style=for-the-badge&logo=canva&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
