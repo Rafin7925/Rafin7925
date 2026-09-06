@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243e&height=180&section=header&text=GAZI%20MD%20RAFAYET%20HOSSEN&fontSize=32&fontColor=00F5D4&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:5B2C6F,75:302B63,100:24243e&height=200&reversal=true" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=36&duration=4000&pause=1200&color=5B2C6F&center=true&vCenter=true&width=700&height=60&lines=GAZI+MD+RAFAYET+HOSSEN"/>
 
 <p><b>SQA Engineer | Manual & Automation Testing</b></p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=I+break+software+on+purpose...;So+users+dont+have+to.;Manual+Testing+%E2%80%A2+Selenium+%E2%80%A2+Java+%E2%80%A2+API+Testing;Always+learning.+Always+testing.&font=Fira+Code&center=true&width=650&height=45&color=00F5D4&vCenter=true&size=20&pause=1500"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=I+break+software+on+purpose...;So+users+dont+have+to.;Manual+Testing+%E2%80%A2+Selenium+%E2%80%A2+Java+%E2%80%A2+API+Testing;Always+learning.+Always+testing.&font=Fira+Code&center=true&width=650&height=45&color=5B2C6F&vCenter=true&size=20&duration=4000&pause=1200"/>
 
 <br>
 
@@ -33,7 +35,7 @@
 
 - 📊 Completed **2 end-to-end QA projects** — 47 test cases designed across 8 modules
 - 📜 Hold **4 verified QA certifications**, including LambdaTest Manual Testing & Postman API Testing
-- 🚀 Currently sharpening automation frameworks and preparing for **SDET / QA internship/JUNIOR roles**
+- 🚀 Currently sharpening automation frameworks and preparing for **SDET / QA internship roles**
 
 <br>
 
@@ -69,6 +71,7 @@
 #### 🧰 Tools
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
@@ -110,8 +113,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rafin7925&label=Public%20Repos&query=$.public_repos&color=00F5D4&style=for-the-badge&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rafin7925&label=Followers&query=$.followers&color=00F5D4&style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rafin7925&label=Public%20Repos&query=$.public_repos&color=5B2C6F&style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://komarev.com/ghpvc/?username=Rafin7925&label=Profile%20Views&color=5B2C6F&style=for-the-badge"/>
 
 <br><br>
 
