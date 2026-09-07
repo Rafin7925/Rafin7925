@@ -50,6 +50,8 @@
 <img src="https://img.shields.io/badge/Functional-302B63?style=flat-square"/>
 <img src="https://img.shields.io/badge/Regression-302B63?style=flat-square"/>
 <img src="https://img.shields.io/badge/Smoke-302B63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sanity-302B63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Exploratory-302B63?style=flat-square"/>
 <img src="https://img.shields.io/badge/Usability-302B63?style=flat-square"/>
 <img src="https://img.shields.io/badge/Black--Box-302B63?style=flat-square"/>
 <img src="https://img.shields.io/badge/Defect%20Reporting-302B63?style=flat-square"/>
@@ -60,6 +62,12 @@
 <img src="https://img.shields.io/badge/TestNG-E34F26?style=flat-square"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Page%20Object%20Model-302B63?style=flat-square"/>
+
+#### 📝 Documentation
+<img src="https://img.shields.io/badge/SRS-302B63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Test%20Plan-302B63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Test%20Scenarios-302B63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Requirement%20Analysis-302B63?style=flat-square"/>
 
 </td>
 <td valign="top" width="50%">
